@@ -8,4 +8,4 @@ Creating a application where we taking input and translating it to doge languagu
 * API from [fun translations](https://funtranslations.com/)
 
 ## Live Project
-[DogeTranslation](https://minionspeaktranslations.netlify.app/)
+[ChefTranslation](https://profound-paprenjak-12b803m7.netlify.app/)
